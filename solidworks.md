@@ -1,6 +1,6 @@
 ---
 title: Solidworks
-parent: Model Optimizations
+parent: Optimizations
 has_children: true
 nav_order: 1
 ---
