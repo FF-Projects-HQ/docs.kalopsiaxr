@@ -1,6 +1,6 @@
 ---
-title: child of model_optimization
-parent: model_optimization
+title: Solidworks
+parent: Model Optimizations
 has_children: true
 nav_order: 1
 ---
