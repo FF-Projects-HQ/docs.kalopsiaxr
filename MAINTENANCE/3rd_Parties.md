@@ -2,7 +2,7 @@
 title: 3rd Party Tools
 parent: Maintenance Editor
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 
 # **3rd Party Tools**
