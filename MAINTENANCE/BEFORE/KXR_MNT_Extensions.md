@@ -31,4 +31,4 @@ Our editor and VR client use **GLTF/GLB** extension to family to operate. But ou
 + We don't want to direct our customers to extensive model preparation stages (especially vendor side ones) for just scenario creation.
 
 **Future Releases**\
-We will work on Datasmith Runtime Support. But it requires some tests and we need to build an API to mobile support. So, it will take sometimes. 
+We work on Datasmith Runtime Support, right now. But it requires some additional CAD file compability tests and we need to build an API to mobile support before release. So, it will take sometimes. 
