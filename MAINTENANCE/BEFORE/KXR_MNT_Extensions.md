@@ -1,9 +1,9 @@
 ---
 title: Supported Extensions
-parent: title: Before Import
+parent: Before Import
 grand_parent: Maintenance Editor
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 
 **Supported Extensions**
