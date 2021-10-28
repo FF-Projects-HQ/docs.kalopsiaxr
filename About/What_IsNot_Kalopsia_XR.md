@@ -22,6 +22,6 @@ But it is not a **product visualization or marketing focused "render engine"** s
 **In the other hand, we have these graphics features**
 * We enabled **RTXGI and Ray Traced Reflections** because that blue-collar stuffs noticed reflections to give objects some metallic looks.
 * We integrated **photography snapshot function** to for enabling its user to get some realistic state photos.
-* We integrated **pre-defined material assignment** editor. Engineer can not create a material from start but they can assign various materials from our library to their objects.
+* We integrated **pre-defined material assignment** editor. Engineers can not create a material from start but they can assign various materials from our library to their objects.
 
 **Even if we disabled these features, we prepared their functions in our source code. So if our customers will want these features from us, we can just integrate them in a short time.**
