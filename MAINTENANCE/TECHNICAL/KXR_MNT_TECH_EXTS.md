@@ -5,5 +5,5 @@ has_children: true
 nav_order: 1
 ---
 
-# **Technical Informations**
+# **Supported Extensions**
 This page contains informations about supported extensions.
