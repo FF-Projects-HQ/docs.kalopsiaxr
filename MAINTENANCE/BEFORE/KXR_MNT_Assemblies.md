@@ -1,6 +1,6 @@
 ---
 title: Assembly Structures
-parent: title: Before Import
+parent: Before Import
 grand_parent: Maintenance Editor
 has_children: true
 nav_order: 1
