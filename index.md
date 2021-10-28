@@ -1,2 +1,4 @@
 ## Frozen Forest Reality Technologies
-Bu web sayfası endüstriyel bakım simülasyonlarınızı programlama ve/veya script ihtiyacı olmadan hazırlamanızı sağlayan Kalopsia XR projemiz ile alakalı eğitim içeriklerini barındırmaktadır.
+Welcome to documentation page of our Kalopsia XR industrial simulations ecosystem.\
+When a simulation editor released, you can find it on left side.\
+If you need to ask anything specific, you send mail to info@ffreality.com
