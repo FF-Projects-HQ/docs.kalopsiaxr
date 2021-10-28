@@ -15,9 +15,9 @@ At first, engineers can handle new versions manually without a problem. But when
 + It has integrated render technologies for **PDF, Markdown, TXT and DOCX files (with Pandoc)**
 + It is completely compatible with enterprise IT protocols.
   - It is crossplatform. IT departmens can deploy it to **Windows, Linux, Mac operating system or even an IoT device such Raspberry Pi.**
-  - It supports various database technologies such as **SQLite, MySQL, MSSQL, PostgreSQL.**
-  - It is based on a widely known technology in IT/Software sector (A Git Fork). So, IT departments can easily work with it.
+  - It supports various database technologies such as **SQLite, MySQL, MSSQL and PostgreSQL.**
+  - It is based on a widely known technology in IT/Software sector **(A Git Fork)**. So, IT departments can easily work with it.
   - It does not need an installation. It is completely portable.
 
 **Can You Use Different Version Control Program ?**\
-If your version control program deliver raw datas from HTTP, it won't be a problem. But for full support, we need to make some customizations for you. These customizations will be free.
+If your version control program deliver raw datas from **HTTP**, it won't be a problem. But for full support, we need to make some customizations for you. These customizations will be free.
