@@ -7,7 +7,7 @@ nav_order: 2
 
 It is a fact that Kalopsia XR has advance graphics features thanks to its **Unreal Engine 4, Nvidia RTXGI and DLSS** based structure.
 
-But it is not a **product visualization or marketing focused "render engine"** such as VRAY, Autodesk Arnold, Autodesk VRED, Marmoset Toolbag and Keyshot.
+But it is not a **product visualization or marketing focused "render engine"** such as VRAY, Autodesk Arnold, Autodesk VRED, Marmoset Toolbag or Keyshot.
 
 **For this reason, we deprecated these features.**
 * Shadows
