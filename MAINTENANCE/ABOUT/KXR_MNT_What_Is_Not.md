@@ -1,5 +1,5 @@
 ---
-title: What Is Not ?
+title: What Isn't It ?
 parent: About
 grand_parent: Maintenance Editor
 has_children: true
