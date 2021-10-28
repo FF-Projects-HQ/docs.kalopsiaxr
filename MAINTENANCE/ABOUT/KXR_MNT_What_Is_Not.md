@@ -6,7 +6,7 @@ has_children: true
 nav_order: 2
 ---
 
-# **What Is Not Kalopsia XR - Maintenance Editor ?**
+# **What Isn't Kalopsia XR - Maintenance Editor ?**
 
 It is a fact that Kalopsia XR has good graphics thanks to its **Unreal Engine 4, Nvidia RTXGI and DLSS** based structure.
 
