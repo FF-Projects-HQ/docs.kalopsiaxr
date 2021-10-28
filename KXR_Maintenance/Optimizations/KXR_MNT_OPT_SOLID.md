@@ -1,6 +1,6 @@
 ---
 title: Solidworks
-parent: Optimizations
+parent: Maintenance Editor/Optimizations
 has_children: true
 nav_order: 2
 ---
