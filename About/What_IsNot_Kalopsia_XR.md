@@ -13,7 +13,7 @@ But it is not a **product visualization or marketing focused "render engine"** s
 
 **For this reason, we deprecated these features.**
 * Shadows.
-* Material Creation Editor.  (Material means visualized patterns of objects. For example, rust and/or roughness patterns can be considered as metal materials for objects)
+* Material Creation Editor.  *(Material means visualized patterns of objects. For example, rust and/or roughness patterns can be considered as metal materials for objects)*
 * Light Properties Editor.
 
 **Let's have a detailed explaination.**
@@ -22,7 +22,7 @@ But it is not a **product visualization or marketing focused "render engine"** s
 
 * If we integarted an advance material creation editor (for example allowing its user to define PBR texture passes such as normal, metallic, roughness and etc.) we would increase it's learning curve. For example, engineer should know how to Unwrap UV for their models and texture pass functions. Of course there are some auto-uw techniques but they can not work for every object or every usage.  Also we noticed that maintenance engineers who will build simulations, simply focus on scenario creation and document  attachment functions. They dont spend time to create materials. If they want **customized** realistic materials, they can define them in Solidworks, Autodesk Inventor or 3Ds Max while drawing their models. All these softwares support PBR and KHR compatible material define functions in their latest versions. If model file has realistic material, our software can import it very well.
 
-* As we say before, Kalopsia XR does not render shadows; reflections dont prevent its user to see objects and GI functions can lighten everywhere. Also we use cold-white light to get real color of objects. So, changing light functions will not increase its training or exploring features. For this reason we dont integrated a light editor.
+* As we say before, Kalopsia XR does not render shadows; reflections dont prevent its user to see objects and GI functions can lighten everywhere. Also we use cold-white light to get real color of objects. So, changing light functions will not increase its training or exploring features. For this reason we did not integrate a light editor.
 
 **In the other hand, we have these graphics features**
 * We enabled **RTXGI and Ray Traced Reflections** because that blue-collar stuffs noticed reflections to give objects some metallic looks.
