@@ -11,7 +11,7 @@ But it is not a **product visualization or marketing focused "render engine"** s
 
 **For this reason, we deprecated these features.**
 * Shadows
-* Material Creation Editor (Material means visualized patterns of objects. For example rust or roughness of a metal object are some of material functions)
+* Material Creation Editor (Material means visualized patterns of objects. For example, rust and/or roughness patterns can be considered as metal materials for objects)
 
 **Let's have a detailed explaination.**
 
