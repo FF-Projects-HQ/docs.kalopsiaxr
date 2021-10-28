@@ -1,5 +1,5 @@
 ---
-title: What Is Not KXR - Maintenance Editor ?
+title: What Is Not ?
 parent: About
 grand_parent: Maintenance Editor
 has_children: true
