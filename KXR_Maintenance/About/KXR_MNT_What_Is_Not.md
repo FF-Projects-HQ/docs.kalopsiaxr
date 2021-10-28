@@ -1,5 +1,5 @@
 ---
-title: What Is Not Kalopsia XR ?
+title: What Is Not Kalopsia XR - Maintenance Editor ?
 parent: Maintenance Editor/About
 has_children: true
 nav_order: 2
@@ -18,7 +18,7 @@ This is a technical stuff training software which focus on maintenance departmen
    - Simulation contents which created with this editor will be used mainly by **"blue-collar stuff"** and we noticed that these target users dont notice shadows at all in VR. So we disabled this feature for gaining extra performance.
 + **Material Creation Editor.** 
    - *Material means visualized patterns of objects. For example, rust and/or roughness patterns can be considered as metal materials for objects.*
-   - If we integarted an advance material creation editor (for example allowing its user to define PBR texture passes such as normal, metallic, roughness and etc.) we would increase it's learning curve. 
+   - If we integrated an advance material creation editor (for example allowing its user to define PBR texture passes such as normal, metallic, roughness and etc.) we would increase it's learning curve. 
    - For example, engineer should know how to Unwrap UV for their models and texture pass properties. Of course there are some auto-uw techniques but they can not work for every object or every usage.
    - Also we noticed that maintenance engineers who will build simulations, simply focus on scenario creation and document  attachment functions. They dont spend time to create materials.
    - If they want **customized** realistic materials, they can define them in Solidworks, Autodesk Inventor or 3Ds Max while drawing their models. All these softwares support PBR and KHR compatible material define functions in their latest versions.

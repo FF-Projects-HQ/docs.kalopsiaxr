@@ -1,5 +1,5 @@
 ---
-title: Optimizations
+title: 3D Model Preparations
 parent: Maintenance Editor
 has_children: true
 nav_order: 2
