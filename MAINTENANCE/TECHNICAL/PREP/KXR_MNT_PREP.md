@@ -1,6 +1,6 @@
 ---
 title: 3D Model Preparations
-parent: Maintenance Editor
+parent: Technical Informations
 has_children: true
 nav_order: 1
 ---
