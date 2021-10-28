@@ -21,4 +21,6 @@ Simulation contents which created with this editor will be used mainly by **"blu
 
 But **we enabled RTXGI and Ray Traced Reflections** because that blue-collar stuffs noticed reflections to give objects some metallic looks.
 
+Also we integrated **photography snapshot function** to for enabling its user to get some realistic state photos.
+
 **Even if we disabled these features, we have prepared their functions in our source code. So if our customers will want these features from us, we can just integrate them in a short time.**
