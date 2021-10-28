@@ -16,5 +16,5 @@ At first, engineers can handle new versions manually without a problem. But when
 + It supports various database technologies such as **SQLite, MySQL, MSSQL, PostgreSQL.**
 + It has integrated render technologies for **PDF, Markdown, TXT and DOCX files (with Pandoc)**
 
-**Can You Use Different Version Control Program ?**
+**Can You Use Different Version Control Program ?**\
 If your version control program deliver raw datas from HTTP, it won't be a problem. But for full support, we need to make some customizations for you. These customizations will be free.
