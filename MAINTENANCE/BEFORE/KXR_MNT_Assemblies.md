@@ -8,7 +8,7 @@ nav_order: 1
 
 **Why We Use Game Engines ?**\
 If we want to create realtime interactive simulation contents with advance realistic graphics for VR platform, we need to use some specific specific frameworks and APIs such as DirectX, Vulkan and OpenXR.\
-For this reason even if we dont use branded engines like Unreal Engine or Unity and build our in-house technology, back-end will roughly be same. It will become some kind of a game engine.\
+For this reason even if we don't use branded engines like Unreal Engine or Unity and build our in-house technology, back-end will roughly be the same. It will become some kind of a game engine.\
 Right now we use Unreal Engine 4 to build our custom simulations and Kalopsia XR ecosystem.
 
 **Understanding of Game Engines**\
