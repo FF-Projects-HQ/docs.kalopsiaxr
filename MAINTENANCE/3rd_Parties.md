@@ -9,4 +9,4 @@ nav_order: 3
 This page contains list of 3rd party tools which we used in our Kalopsia XR - Maintenance Editor
 
 + **Gitea**\
-  [link](https://github.com/go-gitea/gitea)
+  [https://github.com/go-gitea/gitea](https://github.com/go-gitea/gitea)
