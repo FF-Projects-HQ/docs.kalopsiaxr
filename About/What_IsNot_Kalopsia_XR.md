@@ -10,7 +10,7 @@ nav_order: 2
 # But it is not a product visualization focused "render engine" such as VRAY, Autodesk Arnold, Autodesk VRED, Marmoset Toolbag and Keyshot.
 # For this reason, it has not these features
 
-# Shadows
-  # Test
+* Shadows
+* Material Creation Editor
 
 # If we integrated these features, it wil
