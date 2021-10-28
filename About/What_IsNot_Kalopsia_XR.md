@@ -24,4 +24,4 @@ Simulation contents which created with this editor will be used mainly by **"blu
 * We integrated **photography snapshot function** to for enabling its user to get some realistic state photos.
 * We integrated **pre-defined material assignment** editor. Engineer can not create a material from start but they can assign various materials from our library to their objects.
 
-**Even if we disabled these features, we have prepared their functions in our source code. So if our customers will want these features from us, we can just integrate them in a short time.**
+**Even if we disabled these features, we prepared their functions in our source code. So if our customers will want these features from us, we can just integrate them in a short time.**
