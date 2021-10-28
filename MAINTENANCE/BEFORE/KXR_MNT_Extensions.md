@@ -25,9 +25,10 @@ Our editor and VR client use **GLTF/GLB** extension to family to operate. But ou
 + GLB files uses JSON based structure. So lots of company creates their GLTF variants. We use Khronos Group's original GLTF structure. For this reason, we dont suggest converters other than mentioned above. So, use it others with cautions.
 
 **Why We Support Few Formats**\
-We know that some of our competitors supports more extensions from us. For aspect of digital twin usages in real world, engineers works with assemblies which have thousand of components. Not just some polished models from GrabCAD.
-Also simply looking of that models is just meaningless for training purpose. So, 3D model should have same hierarchy structure and names from CAD program.
-In the other hand, we dont want to direct our customers to extensive model preparation stages (especially vendor side ones) for just scenario creation.
++ We know that some of our competitors supports more extensions from us. In real word scenarios of digital twin usages, engineers works with assemblies which have thousand of components rather than some polished models from 3D markets. Also they need its hierarchy and part names rather than simply looking its shape.
++ Users should have version control and contents will be delivered to clients from a center to prevent unnecessary duplications and version conflictings. GLTF format specifically created for this purpose. Because a productive and proper simulation solution should keep up with changes in its plant without thinking if it's too much or not. 
++ VR technology is very good for personal training but it can not be used on active cases in field. At that point, we suggest our mobile client to our customers. For this reason, mobile clients should open that 3D contents without a problem.
++ We dont want to direct our customers to extensive model preparation stages (especially vendor side ones) for just scenario creation.
 
 **Future Releases**\
 We will work on Datasmith Runtime Support. But it requires some tests and we need to build an API to mobile support. So, it will take sometimes. 
