@@ -16,7 +16,7 @@ Right now we use Unreal Engine 4 to build our custom simulations and Kalopsia XR
 + Main Assembly files (for example a collaborative robot model) is equal to an **Actor Class**
 + Sub-Assemblies (for example gripper group of that collaborative robot) is equal to **Scene Components**. Because they do not have body or mesh. But they works like an empty/ghost volume to become a parent of couple mesh components. (You can think that they are some kind of div classes of HTML)
 + Parts (for example a bolt or a plate of gripper group of that collaborative robot) is equal to **Static Mesh Components**.\
-Also, lots of CAD program features is avaible only for their ecosystem.
+Also, lots of CAD program features is avaible only for their ecosystem or partners.
 
 **Assembly Hierarchy**\
 If you want see proper hierarchy in editor and VR, you need to use **Assembly > Sub-Assembly > Part** workflow rather than just **Motion Study** defination.
