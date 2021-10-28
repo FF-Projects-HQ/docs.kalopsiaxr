@@ -32,4 +32,4 @@ This is a technical stuff training software which focus on maintenance departmen
 
 Even if we depreceted these features, we **have** their functions in our source code. So if our customers will want these features from us, **we can just integrate them in a short time.**
 
-**In short, these deprecatations are not about know-how. They are all about focusing its purpose and decreasing its learning curve. We came these conclussions with our pilot applications in factories.**
+**In short, these deprecatations are not about our know-how. They are all about focusing its purpose and decreasing its learning curve. We came these conclusions with our pilot applications in factories.**
