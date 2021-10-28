@@ -29,5 +29,5 @@ For example, you want to create a scenario for removing 5 bolt and you dont want
 To achive this, you need add them in a **part** rather than an assembly.
 
 **Performance Suggestions**\
-You can visualize potentially thousands of components in KalopsiaXR thanks to its game engine based backend. But you should divide them multiple assemblies.\
+You can visualize potentially thousands of components in Kalopsia XR thanks to its game engine based backend. But you should divide them multiple assemblies.\
 For example if you need to visualize a casting plant, you need to create multiple assemblies for oven group, elevator group and etc. Because VR application performance is not all about its rendering performance. It is also about feature mechanics. So, calculating thousand components at once will be very performance consuming and we dont suggest that.
