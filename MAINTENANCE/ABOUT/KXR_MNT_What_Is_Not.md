@@ -38,5 +38,5 @@ Even if we depreceted these features, we **have** their functions in our source 
 So if our customers will want these features from us, **we can just integrate them in a short time.**
 
 **In short, these deprecatations are not about our know-how.\
-They are all about focusing its purpose and decreasing its learning curve. Faster simulation creation is better for our customer's ROI from Kalopsia XR.
+They are all about focusing its purpose and decreasing its learning curve. Faster simulation creation is better for our customer's ROI from Kalopsia XR.\
 We came these conclusions with our pilot applications in factories.**
