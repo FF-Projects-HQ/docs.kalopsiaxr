@@ -11,10 +11,10 @@ Factories and living organism have lots of things in common. One of these simila
 At first, engineers can handle new versions manually without a problem. But when changes or VR/Mobile client count increased, it will necessary to use some tools to build proper version control and streamlined content delivery.
 
 **Why Gitea ?**
-+ It is an open sourced (MIT Licensed) software. So it won't add additional cost to our customers and we can change it freely with customer's requirements.
-+ It is crossplatform. IT departmens can deploy it to Microsoft, Linux, Mac or even an IoT device such Raspberry Pi.
-+ It supports various database technologies such as SQLite, MySQL, MSSQL, PostgreSQL.
-+ It has integrated render technologies for PDF, Markdown and DOCX files (with Pandoc)
++ It is an open sourced (MIT Licensed) software. So it won't add additional cost to our customers and we can customize it freely with their needs.
++ It is crossplatform. IT departmens can deploy it to **Microsoft, Linux, Mac or even an IoT device such Raspberry Pi.**
++ It supports various database technologies such as **SQLite, MySQL, MSSQL, PostgreSQL.**
++ It has integrated render technologies for **PDF, Markdown, TXT and DOCX files (with Pandoc)**
 
-**Can We Use Different Version Control Program ?**
+**Can You Use Different Version Control Program ?**
 If your version control program deliver raw datas from HTTP, it won't be a problem. But for full support, we need to make some customizations for you. These customizations will be free.
