@@ -9,7 +9,9 @@ nav_order: 2
 
 It is a fact that Kalopsia XR has good graphics thanks to its **Unreal Engine 4, Nvidia RTXGI and DLSS** based structure.
 
-But it is not a **product / area Visualization or marketing focused "render engine"** such as VRAY, Autodesk Arnold, Autodesk VRED, Marmoset Toolbag, Keyshot, Lumion or Twinmotion. This is a maintenance focused technical stuff training system.
+But it is not a **product / area Visualization or marketing focused "render engine"** such as VRAY, Autodesk Arnold, Autodesk VRED, Marmoset Toolbag, Keyshot, Lumion or Twinmotion.
+
+This is a technical stuff training software which focus on maintenance department (right now). We are going to (absolutely) add new simulation editors to our ecosystem for targeting other technical departments. You can contact us to get informations about our roadmap.
 
 **For this reason, we deprecated these features.**
 + **Shadows.**
@@ -24,10 +26,10 @@ But it is not a **product / area Visualization or marketing focused "render engi
    - As we say before, Kalopsia XR does not render shadows; reflections dont prevent its user to see objects and GI functions can lighten everywhere. Also we use cold-white light to get real color of objects. So, changing light functions will not increase its training or exploring features. For this reason we did not integrate a light editor.
 
 **In the other hand, we have these graphics features**
-+ We enabled **RTXGI and Ray Traced Reflections** because that blue-collar stuffs noticed reflections to give objects some metallic looks.
-+ We integrated **photography snapshot function** to for enabling its user to get some realistic state photos.
++ We enabled **RTXGI and Ray Traced Reflections** because that blue-collar stuffs noticed reflections which give metallic looks to objects.
++ We integrated **photography snapshot function** for enabling its user to get some realistic machine state photos.
 + We integrated **pre-defined material assignment** editor. Engineers can not create a material from start but they can assign various materials from our library to their objects.
 
 Even if we depreceted these features, we **have** their functions in our source code. So if our customers will want these features from us, **we can just integrate them in a short time.**
 
-**In short, these deprecatations are not about know-how. They are all about focusing its purpose and decreasing its learning curve.**
+**In short, these deprecatations are not about know-how. They are all about focusing its purpose and decreasing its learning curve. We came these conclussions with our pilout applications in factories.**
