@@ -11,9 +11,9 @@ It is a fact that Kalopsia XR has good graphics thanks to its **Unreal Engine 4,
 
 But it is not a **product / area Visualization or marketing focused "render engine"** such as VRAY, Autodesk Arnold, Autodesk VRED, Marmoset Toolbag, Keyshot, Lumion or Twinmotion.
 
-This is a technical stuff training software which focus on maintenance department (right now). We are going to (absolutely) add new simulation editors to our ecosystem for targeting other technical departments. You can contact us to get informations about our roadmap.
+This is a technical stuff training software which focus on maintenance department. We are going to (absolutely) add new and standalone simulation editors to our ecosystem for targeting other technical departments. Because we think becoming master in specific subjects is better than becoming jack of all trades master of none if we speak about single software.
 
-**For this reason, we deprecated these features.**
+**For this reason, we deprecated these features. You can see additional explanations about relative feature. **
 + **Shadows.**
    - Simulation contents which created with this editor will be used mainly by **"blue-collar stuff"** and we noticed that these target users dont notice shadows at all in VR. So we disabled this feature for gaining extra performance.
 + **Material Creation Editor.** 
