@@ -1,6 +1,6 @@
 ---
 title: What Is Not Kalopsia XR ?
-parent: Maintenance Editor - About
+parent: Maintenance Editor/About
 has_children: true
 nav_order: 2
 ---
