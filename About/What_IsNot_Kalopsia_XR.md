@@ -12,9 +12,9 @@ It is a fact that Kalopsia XR has good graphics thanks to its **Unreal Engine 4,
 But it is not a **product visualization or marketing focused "render engine"** such as VRAY, Autodesk Arnold, Autodesk VRED, Marmoset Toolbag or Keyshot.
 
 **For this reason, we deprecated these features.**
-* Shadows
-* Material Creation Editor  (Material means visualized patterns of objects. For example, rust and/or roughness patterns can be considered as metal materials for objects)
-* Light Properties Editor
+* Shadows.
+* Material Creation Editor.  (Material means visualized patterns of objects. For example, rust and/or roughness patterns can be considered as metal materials for objects)
+* Light Properties Editor.
 
 **Let's have a detailed explaination.**
 
