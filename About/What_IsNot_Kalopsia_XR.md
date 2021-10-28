@@ -32,4 +32,5 @@ But it is not a **product visualization or marketing focused "render engine"** s
 + We integrated **pre-defined material assignment** editor. Engineers can not create a material from start but they can assign various materials from our library to their objects.
 
 **Even if we disabled these features, we prepared their functions in our source code. So if our customers will want these features from us, we can just integrate them in a short time.**
+
 **In short, these deprecatations are not about know-how. They are all about focusing its purpose and decreasing its learning curve.**
