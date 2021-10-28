@@ -17,6 +17,7 @@ This is a technical stuff training software which focus on maintenance departmen
 **For this reason, we deprecated these features. You can see additional explanations about relative feature.**
 + **Shadows.**
    - Simulation contents which created with this editor will be used mainly by **"blue-collar stuff"** and we noticed that these target users dont notice shadows at all in VR. So we disabled this feature for gaining extra performance.
+
 + **Material Creation Editor.**\
 *Material means visualized patterns of objects. For example, rust and/or roughness patterns can be considered as metal materials for objects.*
    - If we integrated an advance material creation editor (for example allowing its user to define PBR texture passes such as normal, metallic, roughness and etc.) we would increase it's learning curve.\
