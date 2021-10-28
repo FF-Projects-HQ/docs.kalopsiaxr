@@ -9,7 +9,7 @@ nav_order: 2
 
 It is a fact that Kalopsia XR has good graphics thanks to its **Unreal Engine 4, Nvidia RTXGI and DLSS** based structure.
 
-But it is not a **product / area Visualization or marketing focused "render engine"** such as VRAY, Autodesk Arnold, Autodesk VRED, Marmoset Toolbag, Keyshot, Lumion or Twinmotion.
+But it is not a **product / area Visualization or marketing focused "render engine"** such as VRAY, Autodesk Arnold, Autodesk VRED, Marmoset Toolbag, Keyshot, Lumion or Twinmotion. This is a maintenance focused technical stuff training system.
 
 **For this reason, we deprecated these features.**
 + **Shadows.**
