@@ -1,5 +1,5 @@
 ---
-title: Maintenance Editor - About
+title: About
 parent: Maintenance Editor
 has_children: true
 nav_order: 1
