@@ -6,7 +6,7 @@ has_children: true
 nav_order: 3
 ---
 
-#**Why We Need a Version Control ?**
+# **Why We Need a Version Control ?**
 Factories and living organism have lots of things in common. One of these similarity is both of them can change in time. So, it's digital twin should also keep up with these changes.\
 At first, engineers can handle new versions manually without a problem. But when changes or VR/Mobile client count increased, it will necessary to use some tools to build proper version control and streamlined content delivery.
 
