@@ -14,7 +14,7 @@ But it is not a **product / area Visualization or marketing focused "render engi
 
 This is a technical stuff training software which focus on maintenance department. We are going to (absolutely) add new and standalone simulation editors to our ecosystem for targeting other technical departments. Because we think becoming master in specific subjects is better than becoming jack of all trades master of none if we speak about single software.
 
-**For this reason, we deprecated these features. You can see additional explanations about relative feature. **
+**For this reason, we deprecated these features. You can see additional explanations about relative feature.**
 + **Shadows.**
    - Simulation contents which created with this editor will be used mainly by **"blue-collar stuff"** and we noticed that these target users dont notice shadows at all in VR. So we disabled this feature for gaining extra performance.
 + **Material Creation Editor.** 
