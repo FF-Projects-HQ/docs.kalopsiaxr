@@ -1,5 +1,5 @@
 ---
-title: What Is Kalopsia XR - Maintenance Editor ?
+title: What Is KXR - Maintenance Editor ?
 parent: About
 grand_parent: Maintenance Editor
 has_children: true
