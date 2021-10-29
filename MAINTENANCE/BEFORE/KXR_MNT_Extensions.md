@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 **Supported Extensions**\
-Our editor and VR client use **GLTF/GLB** extension to family to operate. But our software can convert IGES and STEP files to proper GLB files to work with them.
+Our editor and VR client use **GLTF/GLB** extension family to operate. But our software can convert IGES and STEP files to proper GLB files to work with them.
 
 + FBX and OBJ files which exported directly from Autodesk Inventor and/or Solidworks can not support Assembly/Sub-Assembly/Part hierarchy and component names.
 + STL extension simply merges all object to create one object. So, you can not touch a specific inferior object from assembly (like a bolt)
