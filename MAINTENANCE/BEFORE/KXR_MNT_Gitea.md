@@ -20,4 +20,4 @@ At first, engineers can handle new versions manually without a problem. But when
   - It does not need an installation. It is completely portable.
 
 **Can You Use Different Version Control Program ?**\
-If your version control program deliver raw datas from **HTTP**, it won't be a problem. But for full support, we need to make some customizations for you. These customizations will be free.
+If your version control program deliver raw datas from **HTTP**, it won't be a problem. But for full support, we need to make some customizations for you. These customizations will be free. *(If requested version control technology requires a paid license (such as Microsoft Sharepoint), company should provide a license or somekind of access for it. If it won't possible, we will include license cost of required time to main price.)*
