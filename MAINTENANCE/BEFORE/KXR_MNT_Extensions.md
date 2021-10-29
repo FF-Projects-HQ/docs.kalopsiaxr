@@ -11,7 +11,8 @@ Our editor and VR client use **GLTF/GLB** extension family to operate.\
 But our software can convert **IGES and STEP** files to proper GLB files to work with them.\
 So, just export your model from your CAD program with IGES or STEP extensions. Editor will handle rest.
 
-**Discovered Extension Issues**
+**Discovered Extension Issues**\
+These issues are not related with our ecosystem. These are extensions' and CAD programs' limitations.
 + FBX and OBJ files which exported directly from Autodesk Inventor and/or Solidworks can not support Assembly/Sub-Assembly/Part hierarchy and component names.
 + STL extension simply merges all object to create one object. So, you can not touch a specific inferior object from assembly (like a bolt)
 + Parasolid extensions (both binary and text) can support hierarchy but does not contain component/part names when exported from Autodesk Inventor as we exprienced.
